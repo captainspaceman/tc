@@ -214,5 +214,9 @@ nav a:hover {
     nav {
         display: none;
 }
+    p {
+        font-size: 16px;
+        line-height: 30px;
+}
 
 }
