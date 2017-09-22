@@ -105,6 +105,12 @@ nav .example {
     padding-left:10px;
     border-left-color: #f04124;
 }
+
+.blue {
+    border-left:solid 5px;
+    padding-left:10px;
+    border-left-color: #5AC1E7;
+}
 .left {
     float:left;
 }
