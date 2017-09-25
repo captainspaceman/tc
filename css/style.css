@@ -232,4 +232,34 @@ nav a:hover {
         line-height: 30px;
 }
 
+/*******/
+/*benefits grid exploration 
+/*******/
+
+.registration5-benefits {
+    margin-top: 25px;
+    margin-bottom: 20px;
+    margin-left: -12px;
+    text-align: center;
+    width: 450px;
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+.description {
+    padding: 14px 0 14px 38px;
+    text-align: left;
+    font-weight: 300;
+    font-size: 16px;
+    width: 50%;
+}
+
+.tc-icon {
+    display: block;
+}
+
+/*******/
+/*end benefits grid exploration... I haven't solved it... I will. 
+/*******/
+
+
 }
