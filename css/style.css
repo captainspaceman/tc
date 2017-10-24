@@ -178,8 +178,9 @@ nav {
 /*    margin-left:5%;*/
     float:left;
     position:fixed;
-    margin-bottom:200px;
-   /* padding-bottom:5%;*/
+/*    margin-bottom:200px;
+    padding-top:0px;
+    padding-bottom:5%;*/
 /*    display: none;*/
 }
 nav ul {
