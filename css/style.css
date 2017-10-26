@@ -67,17 +67,25 @@ a {
     text-decoration: none;
 }
 a:hover {
-    color: #343434;
+
+    color: #5FC1E5;
 
 }
 
-/*a:hover, a:active {
+/*a:active {
 
-    border-left:3px solid;
+    border-left:2px solid;
+    border-left-color: #343434;
+}*/
+
+.active {
+
+    border-left:2px solid;
+    padding-left: 5px;
     border-left-color: #5FC1E5;
 }
 
-a:visited {
+/*a:visited {
     border-left:3px solid;
     border-left-color: #5FC1E5;
 }*/
@@ -94,6 +102,8 @@ li {
 
 nav {
     padding-left:15%;
+    border-left:2px, solid;
+    border-left-color:transparent;
 }
 
 nav .example {
