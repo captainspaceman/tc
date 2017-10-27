@@ -10,7 +10,7 @@ header h1, header p {
 
 }
 article {
-    width: 50%;
+    width: 75%;
     max-width: 800px;
     padding-left:10%;
 /*    max-width: 700px;*/
@@ -19,9 +19,9 @@ article {
     margin-bottom:5%;
 /*    min-width: 320px;*/
 }
-article ul {
+/*article ul {
     list-style: none;
-}
+}*/
 p {
     font-size: 16px;
 /*    font-weight: 400;*/
@@ -102,16 +102,14 @@ a {
 
 li {
     font-size: 14px;
-/*  font-weight: 400; */
     color: #343434;
     padding-left:3px;
-    line-height: 21px;
 
 }
 
 nav {
     display:inline-block;
-    padding-left:15%;
+    padding-left:10%;
     border-left:2px, solid;
     border-left-color:transparent;
 }
@@ -139,9 +137,17 @@ nav .example {
 }
 
 .blue {
-    border-left:solid 5px;
+    border-left:solid 0px;
     padding-left:10px;
     border-left-color: #5AC1E7;
+}
+
+.blue a {
+    color:#5AC1E7;
+}
+
+.blue a:hover {
+    color:#5AC1E7;
 }
 .left {
     float:left;
@@ -220,7 +226,7 @@ nav ul {
     border-left-color: #5ac1e7;
 }
 nav ul li {
-    line-height: 30px;
+    line-height: 32px;
 }
 nav a {
     color: #343434;
