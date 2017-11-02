@@ -10,6 +10,14 @@
 body {
     font-family: 'Aktiv Grotesk', sans-serif;
 }
+
+/*header {
+    height: 50px;
+    width: 100%;
+    background-color: #156A99;
+
+}*/
+
 header h1, header p {
 
     padding-left:18%;
@@ -195,7 +203,10 @@ nav .example {
 
 .blue-box {
     width:50%;
+/*light blue treatment*/
     background-color:#5AC1E7;
+/*dark blue treatment*/
+/*    background-color:#156A99;*/
     min-width: 320px;
     max-height: 300px;
     /*border-bottom: solid 5px;
