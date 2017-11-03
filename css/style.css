@@ -11,12 +11,19 @@ body {
     font-family: 'Aktiv Grotesk', sans-serif;
 }
 
-/*header {
+header {
     height: 50px;
     width: 100%;
     background-color: #156A99;
+    position: fixed;
+    top:0px;
 
-}*/
+}
+
+#logo {
+    margin-top:15px;
+    margin-left:13%;
+}
 
 header h1, header p {
 
@@ -51,6 +58,7 @@ h1 {
 
 h2 {
     font-size: 30px;
+    padding-top: 10px;
     font-weight: 200;
     color:#343434;
     line-height: 37px;
@@ -203,8 +211,10 @@ nav .example {
 
 .blue-box {
     width:50%;
+/*white treatment*/
+    background-color: #fff;
 /*light blue treatment*/
-    background-color:#5AC1E7;
+/*    background-color:#5AC1E7;*/
 /*dark blue treatment*/
 /*    background-color:#156A99;*/
     min-width: 320px;
@@ -214,9 +224,10 @@ nav .example {
     text-align: left;
 }
 .blue-box h1 {
-    padding:15%;
+    /*padding:15%;*/
+    /*padding-top: 5px;*/
     line-height: 60px;
-    color: #fff;
+    color: #343434;
 }
 nav {
     float:left;
@@ -261,8 +272,8 @@ nav a {
         width: 100%;
     }
     .blue-box h1 {
-    padding:20%;
-    color: #fff;
+    /*padding:20%;*/
+    color: #343434;
 
 }
 
