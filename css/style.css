@@ -23,6 +23,7 @@ header {
 #logo {
     margin-top:15px;
     margin-left:13%;
+    width:100px;
 }
 
 header h1, header p {
