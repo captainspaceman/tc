@@ -31,6 +31,14 @@ header h1, header p {
     padding-left:18%;
 
 }
+
+.intro {
+    width: 75%;
+    max-width: 700px;
+    margin: 0 auto;
+    margin-top:5%;
+/*    min-width: 320px;*/
+}
 article {
     width: 75%;
     max-width: 700px;
@@ -130,12 +138,12 @@ nav .example {
     margin-bottom: 30px;
 }
 
-.table-of-contents {
+/*.table-of-contents {
     font-size:16px;
     font-weight: 600;
     padding-bottom:5px;
     border-bottom:1px solid #e5e5e5;
-}
+}*/
 
 .good {
     border-left: solid 2px;
@@ -172,11 +180,7 @@ nav .example {
     margin-bottom: 50px;
     margin-top: 50px;
     vertical-align: middle;
-  /*commented out box shadow
-  /* box-shadow: 10px 10px 300px #e5e5e5;*/
-  /*  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-  /*  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
-  */
+  
 }
 
 /***************************************************************/
@@ -254,6 +258,50 @@ nav a {
 
     color: #5ac1e7;
 
+}
+
+/******************************/
+/**styling for the homepage***/
+/****************************/
+
+#container {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#container h2 {
+    padding-bottom:5%;
+}
+
+
+#rectangle {
+    width: 200px;
+    height: 150px;
+    border-radius: 5px;
+    background-color: #5ac1e7;
+    float:left;
+    margin-left:5%;
+    margin-bottom: 5%;
+/*    box-shadow: 10px 10px 300px #e5e5e5;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);*/
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+
+
+}
+
+#rectangle:hover {
+/*  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+  background-color: #7AD3F4;
+    border:1px, solid;
+
+}
+
+#rectangle a h3{
+
+    padding:10%;
+    text-align: center;
+    color:#fff;
 }
 
 /***********************/
