@@ -286,9 +286,8 @@ nav a {
     text-decoration: none;
 }
 
-.top-nav-link a:hover {
-
-    color: #5ac1e7;
+nav a:hover {
+    font-weight: 500;
 
 }
 
