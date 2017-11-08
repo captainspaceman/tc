@@ -25,10 +25,42 @@ header {
     margin-left:13%;
     width:100px;
 }
+#home {
+    margin-top:15px;
+    margin-left:13%;
+}
 
 header h1, header p {
 
     padding-left:18%;
+
+}
+
+/**********************/
+/*Header nav styling***/
+/**********************/
+
+.vertically-centered {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+}
+
+header nav {
+    margin-right:50px;
+}
+header nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+header nav ul li {
+    display: inline-block;
+    width:125px;
+    height:50px;
+    margin-left: 10px;
+    margin-right: 10px;
 
 }
 
