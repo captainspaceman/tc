@@ -12,21 +12,22 @@ body {
 }
 
 header {
-    height: 50px;
+    display:none;
+/*    height: 50px;
     width: 100%;
     background-color: #156A99;
     position: fixed;
-    top:0px;
+    top:0px;*/
 
 }
 
-#logo {
+/*#logo {
     margin-top:15px;
     margin-left:13%;
 }
 #home {
     margin-top:15px;
-    margin-left:-50%;
+    margin-left:-50%;*/
 }
 
 header h1, header p {
