@@ -11,6 +11,11 @@ body {
     font-family: 'Aktiv Grotesk', sans-serif;
 }
 
+
+/******************************************************************************/
+/*I've temporarily hidden the header until I work out an intuitive navigation*/
+/****************************************************************************/
+
 header {
     display:none;
 /*    height: 50px;
@@ -21,13 +26,13 @@ header {
 
 }
 
-/*#logo {
+#logo {
     margin-top:15px;
     margin-left:13%;
 }
 #home {
     margin-top:15px;
-    margin-left:-50%;*/
+    margin-left:-50%;
 }
 
 header h1, header p {
