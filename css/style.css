@@ -140,7 +140,6 @@ a {
 /*bottom border option;*/
 
     color:#343434;
-    font-weight: 500;
     border-bottom:1.5px solid;
     padding-bottom: 4px;
     border-bottom-color: #5FC1E5;
@@ -305,7 +304,7 @@ nav a {
 }
 
 nav a:hover {
-    font-weight: 500;
+    color:#0098d1;
 
 }
 
