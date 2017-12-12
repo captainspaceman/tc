@@ -1,0 +1,150 @@
+<html xmlns:office="urn:schemas-microsoft-com:office:office" xmlns:word="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><xml><word:WordDocument><word:View>Print</word:View><word:Zoom>90</word:Zoom><word:DoNotOptimizeForBrowser/></word:WordDocument></xml></head><body><h1>Search Engine Optimization (SEO)</h1>
+
+<h2>How it Works</h2>
+
+<p>Writing for search engine optimization is guided by this principle:</p>
+
+<p>"Every webpage should try to be the authority on <em>one single</em> question or topic."</p>
+
+<p>Every page you write on TrueCar should strive to be the authority on one thing, and one thing only.</p>
+
+<p>Now, we know what you are thinking: <strong>Only one thing? That sounds dumb. Why?</strong></p>
+
+<p>Good question, and the answer lies in the simplicity of search engine technology. At its core, a search engine is just a big index that stores, sorts and displays webpages when commanded by a user.</p>
+
+<p>The search engine "collects" these webpages using "crawlers," that go from webpage to webpage, storing and cataloging as they go.</p>
+
+<p><em>Google calls their crawler "Googlebot." Cute, huh?</em></p>
+
+<p>Once a web page is in a search engine's index, a user can retrieve that page by using search commands or "keywords."</p>
+
+<p>Enter a keyword into the search engine, it'll give you a webpage about that keyword. That "keyword" is your "one-thing" that your copy should be devoted to&mdash;contextually speaking.</p>
+
+<p>It can be as broad a topic as "The history of cars" or as laser focused as "how to change the oil on a 1996 Toyota Tacoma." As long as it covers that one topic in detail, and it satisfies a searchers need for information, then you're on the right track.</p>
+
+<p>There are <a href="https://www.google.com/search?q=allintitle%3Aseo&amp;rlz=1C5CHFA_enUS715US717&amp;oq=allintitle%3Aseo&amp;aqs=chrome..69i57j69i58.11742j0j1&amp;sourceid=chrome&amp;ie=UTF-8" target="_blank">millions of blogs</a> about why and how the search engines keep on a' running. For the sake of this guide, we're going to focus on how to write so we don't gum up the gears.</p>
+
+<h2>Keywords</h2>
+
+<p>Keywords are user questions, nothing more. A user asks a question of the search engine in the form of a query, and the search engine's algorithm gives the users the smartest answer it can muster&mdash;in the form of a webpage.</p>
+
+<p>These questions come in three types:</p>
+
+<p><strong>1. Informational:</strong> A user wants to know something about a thing.</p>
+
+<p><strong>2. Navigational:</strong> A user wants to find out where a thing is.</p>
+
+<p><strong>3. Transactional:</strong> A user wants to buy, get or acquire a thing.</p>
+
+<h3>1. Informational</h3>
+
+<p>a user wants to "know" something about a thing. This is usually a user who is in the high-funnel "research" phase of car-buying. They're just asking questions and kicking the tires. Good folks.</p>
+
+<p>"How does the 2018 Jeep Grand Cherokee Handle?"</p>
+
+<p>"What is the MPG of the 2018 Toyota Prius"</p>
+
+<p>"What happened to Scion?"</p>
+
+<h3>2. Navigational:</h3>
+
+<p>A user is curious to know where to find something. That "something" may be a Jeep dealership. It may also be the address of a delicious Thai restaurant, or the location of the nearest Bob's Big Boy... food dominates this category of search. People are hungry.</p>
+
+<p>"Where is the nearest Jeep Dealer?"</p>
+
+<p>"Jeep dealer near me"</p>
+
+<p>"Thai food near me with a decent rating."</p>
+
+<h3>3. Transactional:</h3>
+
+<p>This is a category of search that usually means a user is ready to buy a thing. They've kicked the tires, they've found the local dealers and now they want to get down to brass tax. This is the most interested of category of searchers.</p>
+
+<p>"2018 Jeep Grand Cherokee Pricing"</p>
+
+<p>"Lease a 2018 Jeep Grand Cherokee"</p>
+
+<p>"Buy a Jeep Grand Cherokee"</p>
+
+<h2>Keyword Stuffing</h2>
+
+<p>Excellent organic visibility through search is essential to TrueCar's success. However, a good user experience is a paramount concern. Never stuff a page with keywords. The search engines no longer reward such behavior, and it makes for a bad user experience.</p>
+
+<p>Just try to write about your topic in a natural way, free-flowing way.</p>
+
+<h5><strong>Example:</strong></h5>
+
+<p>If you were writing content on the topic of "Electronic stability control."</p>
+
+<p><em>Electronic stability control (ESC) is a computer-controlled safety feature that works by detecting and reducing vehicle traction loss. If ESC determines that your car is losing traction, the computerized system will help correct the problem by applying the brake to the appropriate wheel at exactly the right time. ESC may also decelerate if necessary. Saving your car, and possibly your life.</em></p>
+
+<p><em>Electronic stability control is a computer controlled electronic stability control safety feature that works by detecting and reducing vehicle traction loss with electronic stability control. If electronic stability control determines that your car is losing traction, electronic stability control will help correct the problem by applying the brake to the appropriate wheel at exactly the right time. Electronic stability control may also decelerate if necessary because it is really good at electronic stability control. Saving your car, and possibly your life. Thank you, electronic stability control.</em></p>
+
+<p><strong>Bottom line:</strong> Don't get caught up with the idea of optimal keyword density or keyword useage on the page. Be natural, use your keywords contextually and write like you talk. The search engines&mdash;and most importantly the user&mdash;will appreciate that.</p>
+
+<h2>Headings</h2>
+
+<p>TrueCar uses 5 header tags: h1, h2, h3, h4 and h5. And they go numerically from most important to least important&mdash;as far as the search engine cares.</p>
+
+<p>The h1 tag is what you would use as the main title of your page. H1's are usually at the top of the page and uses the the most prominent font size or weight.</p>
+
+<h1>This is an example of an h1</h1>
+
+<h2>This is an example of an h2</h2>
+
+<h3>This is an example of an h3</h3>
+
+<h4><strong>This is an example of an h4</strong></h4>
+
+<h5><strong>This is an example of an h5</strong></h5>
+
+<p>It's because of this prominence and importance that the search engine tends to weight the h1 tag more heavily than other content on the page.</p>
+
+<p>Be sure to have the keyword you want the page to rank for inside the h1 heading, otherwise you're diminishing that page's SEO potential.</p>
+
+<h2>Meta Descriptions</h2>
+
+<p>In short: a meta description is a 160 character "elevator pitch" (or summary) on why a user should click and visit your webpage. They show up under a title tag when a user is searching for a thing and your webpage is one of the results they get back.</p>
+<p><br>
+Why only 160 characters? The search engine will usually truncate any meta description that is above 160 characters, so you have to make your point clearly and quickly.</p>
+<p><br>
+Shop for new &amp; used cars and trucks. Read owner reviews, get a discounted TruePrice from a Certified Dealer and save an average of $3,106 off MSRP with TrueCar.</p>
+<p><br>
+Shop for new and used cars, trucks and SUVs. Read real owner reviews, get an upfront and discounted TruePrice from a TrueCar Certified Dealer and save an aver...</p>
+
+<p>The above is an example of the search engine cutting off the meta description and adding an ellipses exactly at the 160 character cut-off point. On occasion the search engine will show more than 160 characters, but generally speaking, 160 is the cut-off point.</p>
+<p><br>
+However, if the meta description is not optimized at all, the search engine will sometimes just choose a random snippet from the page content to use as the meta description.</p>
+<p><br>
+So do your best to optimize the page descriptions to the best of your abilities. Be concise and don't use any unnecessary adjectives, adverbs or punctuation marks. Also make sure that the content of the meta description accurately reflects the content of the page, otherwise the user will bounce.</p>
+<p><br>
+The most important thing to keep in mind when crafting meta descriptions is to write a compelling&mdash;and truthful&mdash;summary of why a user should visit TrueCar to find the answer to their question.</p>
+<p><br>
+Always keep that in mind and you should be in good shape.<br>
+</p>
+
+<h2>Title Tags</h2>
+
+<p>Title tags are webpage labels that live in the "head" section of an html document. They are, arguably, the most important part of a document for SEO&mdash;as far as writing goes.</p>
+
+<p>Because a title tag the keyword optimized label for any one given webpage page, it tells the search engines what the page is about.</p>
+
+<p>Each page should have a unique title tag that's relevant to the page's topic.</p>
+
+<h5><strong>Example:</strong></h5>
+
+<p>If you were writing a title tag for the TrueCar homepage.</p>
+
+<p>Car Prices &amp; Inventory | Savings on New &amp; Used Cars | TrueCar"</p>
+
+<p>"TrueCar.com"</p>
+
+<p>The search engines will usually only show the first 60 or so characters of any given title. So while a title tag could be longer than 60 characters, anything over 60 won't show up in the search engine results page.</p>
+
+<p>If your title goes over the search engine's character limit, it will get cut off by ellipses, and nobody will ever know what you were trying to say.</p>
+
+<p>Car Prices &amp; Inventory | Savings on New &amp; Used Cars | TrueCar</p>
+
+<p>"Car Prices and Inventory | Guaranteed Savings on Great New and Used..."</p>
+
+<p>So keep it short, you've got precious real estate to work with. The ampersands is your friend here. Also, don't feel the need to add unnecessary adjectives or adverbs.</p></body></html>
