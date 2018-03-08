@@ -93,7 +93,7 @@ article {
     max-width: 700px;
     padding-left:10%;
     margin: 0 auto;
-    margin-top:5%;
+    margin-top:2%;
     margin-bottom:5%;
 /*    min-width: 320px;*/
 }
@@ -256,6 +256,7 @@ nav .example {
 
 .profile {
     max-width: 375px;
+    padding-top: 5%
 }
 
 .profile ul {
@@ -275,8 +276,7 @@ nav .example {
     stroke: 2px;
     color: #f8f8f8;
     width: 60px;
-    margin-left:38px;
-    
+    margin-left:38px;   
 }
 
 .profile p {
@@ -422,7 +422,7 @@ nav ul {
 
 }
 nav ul li {
-    line-height: 32px;
+    line-height: 25px;
    /* font-weight: 200;*/
 
 }
