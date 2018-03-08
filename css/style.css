@@ -4,7 +4,7 @@
 
 #wrapper {
 
-    max-width: 1440px;
+    max-width: 1440px; 
     margin: auto;
 }
 body {
@@ -100,6 +100,8 @@ article {
 /*article ul {
     list-style: none;
 }*/
+
+}
 p {
     font-size: 14px;
     font-weight: 400;
@@ -142,9 +144,9 @@ h5 {
 }
  
 h6 {
-    font-size:13px;
-    font-weight:700;
-    color:#343434;
+    font-size:14px;
+    font-weight:300;
+    color:#c2c2c2;
     line-height: 0px;
     margin-top:-10px;
 }
@@ -241,6 +243,90 @@ nav .example {
     margin-top: 50px;
     vertical-align: middle;
   
+}
+
+/*************************************/
+/*begin knowledge consultant styling*/
+/***********************************/
+
+.icon {
+    width: 20px;
+}
+
+.knowledge-consultant {
+    max-width: 375px;
+}
+
+.knowledge-consultant img {
+    max-width: 75px;
+    margin-left:38px;
+}
+
+.knowledge-consultant hr {
+    stroke: 2px;
+    color: #f8f8f8;
+    width: 60px;
+    margin-left:38px;
+    
+}
+
+.knowledge-consultant p {
+    max-width:300px;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #999999;
+  margin-left:38px;
+}
+
+.knowledge-consultant a {
+
+  font-size: 14px;
+  margin-left:38px;
+  padding-bottom: 10px;
+  margin-top:0px;
+
+}
+.knowledge-consultant h1 {
+
+  font-size: 22px;
+  font-weight: normal;
+  text-align: left;
+  margin-left:38px;
+  color: #343434;
+  padding-top:0px;
+  line-height: 0px;
+}
+
+.knowledge-consultant h2 {
+  font-size: 16px;
+  text-align: left;
+  margin-left:38px;
+  color: #999999;
+}
+
+.knowledge-consultant h3 {
+
+  font-size: 14px;
+  text-align: left;
+  margin-left:38px;
+  color: #c2c2c2;
+}
+
+.knowledge-consultant .example p {
+
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #343434;
 }
 
 /***************************************************************/
