@@ -296,6 +296,7 @@ nav .example {
 
   font-size: 14px;
   margin-left:38px;
+  padding:0px;
 
 }
 .profile h1 {
@@ -343,8 +344,6 @@ nav .example {
     background-color:#f8f8f8;
     margin:auto;
     width:100%;
-    margin-bottom: 50px;
-    margin-top: 50px;
     vertical-align: middle;
   
 }
