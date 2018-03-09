@@ -76,8 +76,9 @@ hr {
     margin-top:5%;
     margin-bottom:5%;
     border: 1px solid #e5e5e5;
-    width: 50%;
+    width: 375px;
     border-radius: 100px;
+
   
 }
 
@@ -347,6 +348,13 @@ nav .example {
     height: 100%;
     vertical-align: middle;
   
+}
+
+.grey-box  {
+    margin-top:0;
+    margin-bottom: 10%;
+    border: 12px solid #f8f8f8;
+    width: 375px;
 }
 
 /***************************************************************/
