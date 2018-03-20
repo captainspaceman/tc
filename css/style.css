@@ -90,13 +90,13 @@ hr {
 /*    min-width: 320px;*/
 }
 article {
-    width: 75%;
-    max-width: 700px;
+    width: 80%;
+    max-width: 800px;
     padding-left:20%;
     margin: 0 auto;
     margin-top:2%;
     margin-bottom:5%;
-/*    min-width: 320px;*/
+    min-width: 320px;
 }
 /*article ul {
     list-style: none;
