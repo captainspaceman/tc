@@ -414,7 +414,7 @@ nav .example {
 }
 nav {
     display:inline-block;
-    padding-left:10%;
+/*    padding-left:10%;*/
     border-left:2px, solid;
     border-left-color:transparent;
     float:left;
