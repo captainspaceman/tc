@@ -493,6 +493,10 @@ nav {
  display: none;
  
 }
+/**********************************/
+/*Mobile nav is temporaily hidden*/
+/********************************/
+
 .line {
     display:block;
     width:30px;
@@ -503,6 +507,7 @@ nav {
 }
 
 #hamburger {
+    display: none;
     padding-top:20px;
     padding-left:20px;
 }
