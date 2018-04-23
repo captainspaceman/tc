@@ -224,14 +224,24 @@
 
         <span id="date-notations"><a name="date-notations"></a></span>
             <h2> Date Notation</h2>
-                <p>When writing out a date for casual usage, use the North American notation of month-day-year (M/D/YYYY) and use numerals to represent each. Use forward slashes to separate the month, day and year.</p>
+                <p>When writing out a date for casual usage, use the United States notation of month-day-year (M/D/YYYY) and use numerals to represent each. Use forward slashes to separate the month, day and year.</p>
 
                             <aside class="example">
                               <p class="good">1/16/1948 is the day that the first generation of the Ford F-150 went on sale.</p>
                               <p class="good">This written style guide has been a work in progress since 1/9/2017.</p>
                             </aside>
 
-                <p>When writing a date or date range that must not be misinterpreted by the user as anything but an exact date, spell out the month and add an ordinal indicator to the day.</p>
+                            <p>The above format looks nice and saves on character count. However, there is a possibility of confusion when dealing with single digit days in months that are earlier in the year.</p>
+
+                            <aside class="example">
+                                <p>2/9/2018</p>
+                            </aside>
+
+                            <p>To know that this notation represents "February 9th, 2018" and not "September 9th, 2018" we would have to assume we are reading the United States formatting of M/D/YYYY.</p>
+
+                            <p>As TrueCar currently only operates in the U.S., the likelihood that a user will read the date as intended is very high.</p>
+
+                <p>But, if we need to write a date that must unquestionably be interpretted as an <em>exact day</em> (such as an expiration date of a incentive), spell out the month and add an ordinal indicator to the day.</p>
 
                             <aside class="example">
                               <p class="good">This offer is valid until January 3rd, 2019. </p>
