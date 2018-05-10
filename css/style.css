@@ -107,8 +107,10 @@ a {
 }
 
 mark {
-    color:#f04124;
+    color:#343434;
+    background-color: #FFFD5B;
 }
+
 
 li {
     font-size: 16px;
