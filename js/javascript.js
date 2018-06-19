@@ -1,7 +1,14 @@
-console.log('here');
-
 $(document).ready(function(){
 	$('a').click(function(){
-		$('#colorKey').toggleClass('hide');
+		console.log('button was clicked');
+		$('.colorKey').toggleClass('blue');
+		console.log('class was changed');
 	})
+
+$(window).scroll(function(scrollFunction){
+	console.log('user has scrolled');
+	$(window).off('scroll');
+	$('.colorKey').toggleClass('good');
 })
+
+});

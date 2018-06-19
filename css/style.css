@@ -341,6 +341,7 @@ nav {
     border-left-color:transparent;
     float:left;
     position:fixed;
+    overflow: scroll;
 
 }
 nav ul {
