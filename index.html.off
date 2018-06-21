@@ -42,18 +42,18 @@
 	<div id="container">
 
 
-		<div id="rectangle">
+<!-- 		<div id="rectangle">
 			<a href="trueprice"><h3>TruePrice</h3></a>
-		</div>
+		</div> -->
 		<div id="rectangle">
 			<a href="writing-style-guide"><h3>Style Guide</h3></a>
 		</div>
 		<div id="rectangle">
 			<a href="experience"><h3>New Car</h3></a>
 		</div>
-		<div id="rectangle">
+<!-- 		<div id="rectangle">
 			<a href="p1p2"><h3>P1 and P2</h3></a>
-		</div>
+		</div> -->
 
 		</div>
 
