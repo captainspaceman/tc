@@ -10,4 +10,4 @@ We're all some of those, and some of us, all of those; and we've come together t
 
 Sorry Siri.
 
-What you will find here are some useful guides to help you become fluent in that TrueCar language with minimal effort. If you have any follow-up questions after reviewing any of these guides, contact us.
+What you will find here are some useful guides to help you become fluent in that TrueCar language with minimal effort. Enjoy
