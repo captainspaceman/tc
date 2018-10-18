@@ -1,4 +1,4 @@
-# Writing at TrueCar
+<h1>**Writing at TrueCar**</h1>
 
 Imagine a unique and eclectic community—a collision of coders, artists, data nerds and financial wizards.
 
@@ -12,7 +12,7 @@ Sorry Siri.
 
 What you will find here are some useful guides to help you become fluent in that TrueCar language with minimal effort. If you have any follow-up questions after reviewing any of these guides, contact us.
 
-# 1: Writing for UX and Product
+# **UX & Product**
 
 Good product copywriting is concise, clear and mindful of the many different devices that people use to access the Internet.
 
@@ -58,7 +58,7 @@ Try and avoid complicated words or phrases. Product copy should attempt to clari
         Entering your Vehicle Identification Number (VIN) ensures that the Dealer will be able to give you accurate pricing information on your vehicle when you reach the Dealership.
 
 
-## Numbers and Pricing
+## Numbers & Pricing
 
 Our car pricing data is a core value proposition in the TrueCar experience. The way we display pricing—including single prices, averages and ranges—is guided by a few easy-to-follow directives.
 
@@ -144,9 +144,9 @@ Rewritten example:
 
 ## Comedy
 
-Our brand strategy is heavy on the humor. This is a good thing; life is too short to sit through boring advertising.
-
-However, when it comes to the product, be selective when and where you introduce humor. A user may return to a screen several times when using TrueCar. What once was clever copy becomes annoying when you read it for the twentieth time.
+Our brand strategy can be heavy on the humor. This is a good thing; life is too short to sit through boring advertising.
+ 
+However, when it comes to the product, be selective when and where you introduce humor. A user may return to a screen several times when using TrueCar. What once was clever copy becomes annoying when you read it for the twentieth time. 
 
 
 ## Idioms
@@ -244,40 +244,7 @@ TrueCar user experience copy should focus on the benefit to the user. Excessive 
         _We have found three Dealers with eight offers ready for your review._
 
 
-## Copywriting Guidelines for Partners:
-
-If a partner adheres to a different style guide, use that style guide in place of this one.
-
-If the partner does not have a style guide, use this guide. Pay special attention to the consistency of voice between the partner and TrueCar.
-
-
-## Miscellaneous
-
-
-### Using the Word "Vehicle" Versus the Phrase "Car or Truck."
-
-Early in the TrueCar experience, before the user has prospected, write out the phrase "car or truck" when talking about vehicles to a new user.
-
-
-        _Use TrueCar to see what others paid for their car or truck._
-
-
-        _Use TrueCar to see what others paid for their vehicle._
-
-Once the user has configured their car or truck, use the word "vehicle" in place of the phrase "car or truck."
-
-If we can tell the difference, from a technology standpoint, whether the user is looking at a car or truck, be sure to note that in the copy. A truck is not a car, as any truck driver will tell you. Acknowledging the difference makes for a more enriched user experience.
-
-
-        _You have configured your 2017 Ford F-150, and the truck is waiting for you at the Steve Harvey Ford Dealership in Colorado Springs, CO._
-
-
-        _You have configured your 2017 Ford F-150, and the vehicle is waiting for you at the Steve Harvey Ford Dealership in Colorado Springs, CO._
-
-Again, if we are not able to determine whether the user has configured a car or truck, you may use the word "vehicle" instead.
-
-
-# 2. Writing for Brand and Marketing
+# **Brand & Marketing**
 
 "We exist to be _the most transparent brand in automotive_, to serve as a catalyst that dramatically improves the way people discover, buy and sell cars."
 
@@ -318,22 +285,9 @@ Always title casing. No periods at the end of the headline (unless it's a two-se
 
          We Found Four In-stock Matches for You
 
-We also use title capitalization in button copy, CTA copy and navigational hyperlinks.
-
-Using title case for all the listed items is acceptable.
+We also use title capitalization in button copy, call to action language, navigational hyperlinks and listed items. 
 
 
-##### **Example:**
-
-
-
-*   **MSRP Breakdown**
-*   
-*   Base MSRP: $51,700
-*   Factory Installed Options: $3,200
-*   Freight Delivery Charge: $995
-*   
-*   **Total MSRP: $55,895**
 
 Title case is all about creating a hierarchy of information.
 
@@ -451,19 +405,26 @@ When using titles in a non-TrueCar branded medium:
         Landon Manjikian, Marketing Manager, TrueCar
 
 
-## Company Names and Products
+## Company Names & Products
 
 Check companies' official websites to find their preferred conventions.
 
 The first mention of a company or product can be with its name. After that, start finding other ways to describe it. For example once you've said TrueCar the first time, start referring to us as "we" or "our."
 
+# **Proper Nouns**
 
-## TrueCar Certified Dealers
+## Certified Dealers
 
 Simply put, they're our customers and thus what drives our business. We respect their voice and embrace it. So much so that they're often a key source of insight behind what we do. And remember, TrueCar Dealers aren't the only ones who see our work. Other Dealers do too; and ultimately, it's our goal to have them join us.
 
+## TruePrice
 
-# 3. Writing for SEO
+A single, market-validated price on a car or truck. The actual price. The total before tax that a person will pay at the dealership in order to drive the vehicle home. Basically, the total before tax. 
+
+## Price Curve
+
+
+# **SEO**
 
 
 ## How it Works
@@ -557,7 +518,7 @@ Excellent organic visibility through search is essential to TrueCar's success. H
 Just try to write about your topic in a natural way, free-flowing way.
 
 
-##### **Example:**
+**Example:**
 
 If you were writing content on the topic of "Electronic stability control."
 
@@ -633,7 +594,7 @@ Because a title tag the keyword optimized label for any one given webpage page, 
 Each page should have a unique title tag that's relevant to the page's topic.
 
 
-##### **Example:**
+**Example:**
 
 If you were writing a title tag for the TrueCar homepage.
 
@@ -656,6 +617,6 @@ If your title goes over the search engine's character limit, it will get cut off
 So keep it short, you've got precious real estate to work with. The ampersands is your friend here. Also, don't feel the need to add unnecessary adjectives or adverbs.
 
 
-# This is a Living Document
+# Suggestions
 
-If you think this document needs to be amended in any way, please contact TrueCar's Sr. User Experience Copywriter, Ryan Farrell. rfarrell@truecar.com
+Questions? Comments? Metaphysical speculations? Cries of anguish? Tears of joy? We're good with feedback, and we take nothing personally. Send us an email with your thoughts to copywriting@truecar.com
