@@ -1,6 +1,6 @@
 # TrueCar Writing Style Guide
 
-> Imagine a unique and eclectic community—a collision of coders, artists, data nerds and financial wizards.
+Imagine a unique and eclectic community—a collision of coders, artists, data nerds and financial wizards.
 
 Now imagine they like cars.
 
