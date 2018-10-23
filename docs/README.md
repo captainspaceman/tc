@@ -18,7 +18,7 @@ Good product copywriting is concise, clear and mindful of the many different dev
 
 Good product copywriting also goes out of its way to not irritate a user.
 
-Few things will annoy a user _more_ than complicated instructions or sprawling sentence structure.
+Few things will annoy a user more than complicated instructions or sprawling sentence structure.
 
 If a user has to think too hard to "get" what you're trying to say, then this creates a usability issue, and the copy needs to be reworded.
 
@@ -32,20 +32,20 @@ Don't say in 140 characters what you can just as easily say in 50.
 TrueCar users want reassurance that they are owning the process of using TrueCar. Writing in an active voice empowers the user and adds to TrueCar's authority. Use a steady and consistent tone of voice. Confident but never cocky.
 
 
-        _You can find your VIN (17 characters) in two places on your vehicle._
+        You can find your VIN (17 characters) in two places on your vehicle.
 
 
-        _Your VIN (17 characters) can be located in two places on your vehicle._
+        Your VIN (17 characters) can be located in two places on your vehicle.
 
 Also, don't talk down to a user or cast actions they've taken in a negative light. It's mean.
 
 **For example:** When a user has entered incorrect information into a form
 
 
-        _Looks like there's an error in the VIN field. Go back and correct it to continue._
+        Looks like there's an error in the VIN field. Go back and correct it to continue.
 
 
-        _You've made an error when providing your VIN. Correct it, or you will not be able to continue._
+        You've made an error when providing your VIN. Correct it, or you will not be able to continue.
 
 Try and avoid complicated words or phrases. Product copy should attempt to clarify an action, not make it more obscure.
 
@@ -127,19 +127,19 @@ There are times when adverbs are unavoidable. But, more often than not, you can 
 Exclusion example:
 
 
-        _To get your True Cash Offer, find your VIN and click the link below._
+        To get your True Cash Offer, find your VIN and click the link below.
 
 
-        _To get your True Cash Offer, simply find your VIN and click the link below._
+        To get your True Cash Offer, simply find your VIN and click the link below.
 
 
 Rewritten example:
 
 
-        _You can redeem your True Cash Offer by dropping your car off at your local Dealer._
+        You can redeem your True Cash Offer by dropping your car off at your local Dealer.
 
 
-        _You can redeem your True Cash Offer by dropping your car off locally at the Dealership._
+        You can redeem your True Cash Offer by dropping your car off locally at the Dealership.
 
 
 ## Comedy
@@ -161,20 +161,20 @@ Industry-specific terminology can be intimidating to users who are not familiar 
 For example: When describing the price that a user receives from a Dealer
 
 
-        _TrueCar Certified Dealers provide you with real prices on actual cars._
+        TrueCar Certified Dealers provide you with real prices on actual cars.
 
 
-        _TrueCar Certified Dealers will provide you with transactable offers on in-stock inventory._
+        TrueCar Certified Dealers will provide you with transactable offers on in-stock inventory.
 
 If no common alternative exists, be sure to define the term for the user early on.
 
 **For example: When describing what a "VIN" is and why we need it when a user is selling a car through TrueCar.
 
 
-        _Your Vehicle Identification Number (VIN) is a 17-digit number that is unique to your specific car or truck. You'll need to enter this for the Dealer to give you an accurate price._
+        Your Vehicle Identification Number (VIN) is a 17-digit number that is unique to your specific car or truck. You'll need to enter this for the Dealer to give you an accurate price.
 
 
-        _You must enter your VIN for the Dealer to give you an accurate price._
+        You must enter your VIN for the Dealer to give you an accurate price.
 
 
 ## Puns
@@ -189,18 +189,18 @@ Saying hello is always polite, but once a user is well inside the experience, we
 Here's one example
 
 
-        _Choose a password to complete your profile._
+        Choose a password to complete your profile.
 
 
-        _The next thing you must do is choose a password to complete your profile._
+        The next thing you must do is choose a password to complete your profile.
 
 And here is another
 
 
-        _Enter your VIN to get started_
+        Enter your VIN to get started
 
 
-        _You must enter your VIN to get started_
+        You must enter your VIN to get started
 
 TrueCar users are pretty savvy. Once they get the hang of the things, they won't need the extra prompting that an introductory sentence provides. Save on character count and let them explore.
 
@@ -223,10 +223,10 @@ There is an [episode of Seinfeld](https://www.youtube.com/watch?v=VSKn8RlD7Is) t
 When addressing a user in a personalized experience, we use the pronouns "your" or "yours." This possessive pronoun usage has a dual purpose: It brings a feeling of personalization into the experience, and it introduces a stronger sense of ownership.
 
 
-        _Here is the Price Report for your 2017 Nissan Altima_
+        Here is the Price Report for your 2017 Nissan Altima
 
 
-        _Here is the Price Report for a 2017 Nissan Altima_
+        Here is the Price Report for a 2017 Nissan Altima
 
 The global exception to this rule is that you may use the first person possessive pronoun "My" as a navigation element when you are trying to describe an element i.e. "My Account."
 
@@ -238,15 +238,15 @@ However, when you are writing descriptive copy to describe this element, never m
 TrueCar user experience copy should focus on the benefit to the user. Excessive use of first person pronouns "I" or "We" diminishes this emphasis. TrueCar is seldom "doing" something for the user. The user is discovering things for themselves.
 
 
-        _There are three Dealers with eight offers ready for your review._
+        There are three Dealers with eight offers ready for your review.
 
 
-        _We have found three Dealers with eight offers ready for your review._
+        We have found three Dealers with eight offers ready for your review.
 
 
 # **Brand & Marketing**
 
-"We exist to be _the most transparent brand in automotive_, to serve as a catalyst that dramatically improves the way people discover, buy and sell cars."
+"We exist to be the most transparent brand in automotive, to serve as a catalyst that dramatically improves the way people discover, buy and sell cars."
 
 Transparency: to all of us here, it's more than just a word—it's our north star. Which is why everything we communicate should always tether back to this core value. Copy that's too clever or "addy" isn't really us. That doesn't mean it can't be loose or fun. On the contrary, it can be whatever the job calls for. Just remember, our brand is about breaking through the noise that's so often associated with car buying—all the more reason to be friendly, familiar, and honest.
 
@@ -259,13 +259,13 @@ A very good rule of thumb is to write like you speak. Imagine you're talking to 
         Instead of:
 
 
-        _"It's the best way to purchase a vehicle."_
+        "It's the best way to purchase a vehicle."
 
 
         Go with:
 
 
-        _"It's a great way to buy a car or truck."_
+        "It's a great way to buy a car or truck."
 
 Note: A truck is not a car. Ask a truck driver, they'll tell you.
 
@@ -280,7 +280,7 @@ Always title casing. No periods at the end of the headline (unless it's a two-se
 
         Example 2: A New Way to Buy a Car. A Great Way to Save Money.
 
-['Titlecapitalization.com'](http://titlecapitalization.com/) is your co-pilot, the _Chicago Manual of Style_ is your guide—but only for headlines. For all else, we generally defer to the _Associated Press Stylebook_.
+['Titlecapitalization.com'](http://titlecapitalization.com/) is your co-pilot, the Chicago Manual of Style is your guide—but only for headlines. For all else, we generally defer to the Associated Press Stylebook.
 
 
          We Found Four In-stock Matches for You
@@ -378,7 +378,7 @@ To know that this notation represents "February 9th, 2018" and not "September 9t
 
 As TrueCar currently only operates in the U.S., the likelihood that a user will read the date as intended is very high.
 
-But, if we need to write a date that must unquestionably be interpretted as an _exact day_ (such as an expiration date of a incentive), spell out the month and add an ordinal indicator to the day.
+But, if we need to write a date that must unquestionably be interpretted as an exact day (such as an expiration date of a incentive), spell out the month and add an ordinal indicator to the day.
 
 
         This offer is valid until January 3rd, 2019.
@@ -432,7 +432,7 @@ A single, market-validated price on a car or truck. The actual price. The total 
 Writing for search engine optimization is guided by this principle:
 
 
-        "Every webpage should try to be the authority on _one single_ question or topic."
+        "Every webpage should try to be the authority on one single question or topic."
 
 Every page you write on TrueCar should strive to be the authority on one thing, and one thing only.
 
@@ -442,7 +442,7 @@ Good question, and the answer lies in the simplicity of search engine technology
 
 The search engine "collects" these webpages using "crawlers," that go from webpage to webpage, storing and cataloging as they go.
 
-_Google calls their crawler "Googlebot." Cute, huh?_
+Google calls their crawler "Googlebot." Cute, huh?
 
 Once a web page is in a search engine's index, a user can retrieve that page by using search commands or "keywords."
 
@@ -450,7 +450,7 @@ Enter a keyword into the search engine, it'll give you a webpage about that keyw
 
 It can be as broad a topic as "The history of cars" or as laser focused as "how to change the oil on a 1996 Toyota Tacoma." As long as it covers that one topic in detail, and it satisfies a searchers need for information, then you're on the right track.
 
-There are [thousands of blogs](https://www.google.com/search?q=allintitle%3Aseo&rlz=1C5CHFA_enUS715US717&oq=allintitle%3Aseo&aqs=chrome..69i57j69i58.11742j0j1&sourceid=chrome&ie=UTF-8) about why and how the search engines keep on a' running. For the sake of this guide, we're going to focus on how to write so we don't gum up the gears.
+There are [thousands of blogs](https://www.google.com/search?q=allintitle%3Aseo&rlz=1C5CHFAenUS715US717&oq=allintitle%3Aseo&aqs=chrome..69i57j69i58.11742j0j1&sourceid=chrome&ie=UTF-8) about why and how the search engines keep on a' running. For the sake of this guide, we're going to focus on how to write so we don't gum up the gears.
 
 
 ## Keywords
@@ -523,12 +523,12 @@ Just try to write about your topic in a natural way, free-flowing way.
 If you were writing content on the topic of "Electronic stability control."
 
 
-        _Electronic stability control (ESC) is a computer-controlled safety feature that works by detecting and reducing vehicle traction loss. If ESC determines that your car is losing traction, the computerized system will help correct the problem by applying the brake to the appropriate wheel at exactly the right time. ESC may also decelerate if necessary. Saving your car, and possibly your life._
+        Electronic stability control (ESC) is a computer-controlled safety feature that works by detecting and reducing vehicle traction loss. If ESC determines that your car is losing traction, the computerized system will help correct the problem by applying the brake to the appropriate wheel at exactly the right time. ESC may also decelerate if necessary. Saving your car, and possibly your life.
 
 
-        _Electronic stability control is a computer controlled electronic stability control safety feature that works by detecting and reducing vehicle traction loss with electronic stability control. If electronic stability control determines that your car is losing traction, electronic stability control will help correct the problem by applying the brake to the appropriate wheel at exactly the right time. Electronic stability control may also decelerate if necessary because it is really good at electronic stability control. Saving your car, and possibly your life. Thank you, electronic stability control._
+        Electronic stability control is a computer controlled electronic stability control safety feature that works by detecting and reducing vehicle traction loss with electronic stability control. If electronic stability control determines that your car is losing traction, electronic stability control will help correct the problem by applying the brake to the appropriate wheel at exactly the right time. Electronic stability control may also decelerate if necessary because it is really good at electronic stability control. Saving your car, and possibly your life. Thank you, electronic stability control.
 
-**Bottom line:** Don't get caught up with the idea of optimal keyword density or keyword useage on the page. Be natural, use your keywords contextually and write like you talk. The search engines, and most importantly _the user_, will appreciate that.
+**Bottom line:** Don't get caught up with the idea of optimal keyword density or keyword useage on the page. Be natural, use your keywords contextually and write like you talk. The search engines, and most importantly the user, will appreciate that.
 
 
 ## Headings
