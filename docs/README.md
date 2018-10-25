@@ -29,7 +29,7 @@ Don't say in 140 characters what you can just as easily say in 50.
 
 ## Voice
 
-TrueCar users want reassurance that they are owning the process of using TrueCar. Writing in an active voice empowers the user and adds to TrueCar's authority. Use a steady and consistent tone of voice. Confident but never cocky.
+TrueCar users want reassurance that they are owning the process of using TrueCar. Writing in an active voice empowers the user and adds to TrueCar's authority. Use a steady and consistent tone of voice. Confident but never cocky. Writing in active voice usually means your sentence will be shorter, clearer and easier to understand—all essential elements of good UX writing. 
 
 
         You can find your VIN (17 characters) in two places on your vehicle.
